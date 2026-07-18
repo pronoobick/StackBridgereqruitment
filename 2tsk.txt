@@ -1,0 +1,3 @@
+curl -X GET "https://api.ourcite.com/api/v1/stores/" \
+  -H "Authorization: Bearer eyJfiJIUzIfiIs..." \
+  -H "Accept: application/json"
