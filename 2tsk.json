@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "data": {
+    "stores": [
+      {
+        "id": "metro_001",
+        "name": "METRO",
+        "deliveryText": "Ближайшая доставка сегодня 21:00–23:00",
+        "externalLink": "https://online.metro-cc.ru/"
+      },
+      {
+        "id": "ashan_002",
+        "name": "Ашан",
+        "deliveryText": "Ближайшая доставка сегодня 18:00–20:00",
+        "externalLink": "https://www.auchan.ru/"
+      },
+      {
+        "id": "vkusvill_003",
+        "name": "ВкусВилл",
+        "deliveryText": "Быстрая доставка от 20 до 60 минут",
+        "externalLink": "https://vkusvill.ru/"
+      },
+      {
+        "id": "victoria_004",
+        "name": "ВИКТОРИЯ",
+        "deliveryText": "Ближайшая доставка сегодня 17:00–19:00",
+        "externalLink": "https://www.victoria-group.ru/"
+      }
+    ]
+  }
+}
